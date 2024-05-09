@@ -1,0 +1,5 @@
+{
+    "require": {
+        "firegento/fastsimpleimport": "^1.3"
+    }
+}
